@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CB1327091EC374DE0056FB24 /* nen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB1327081EC374DE0056FB24 /* nen.jpg */; };
 		CB49CA371EC1A4F300F76F90 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB49CA361EC1A4F300F76F90 /* AppDelegate.swift */; };
 		CB49CA391EC1A4F300F76F90 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB49CA381EC1A4F300F76F90 /* ViewController.swift */; };
 		CB49CA3C1EC1A4F300F76F90 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB49CA3A1EC1A4F300F76F90 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CB1327081EC374DE0056FB24 /* nen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nen.jpg; sourceTree = "<group>"; };
 		CB49CA331EC1A4F300F76F90 /* login.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = login.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB49CA361EC1A4F300F76F90 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CB49CA381EC1A4F300F76F90 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 		CB49CA351EC1A4F300F76F90 /* login */ = {
 			isa = PBXGroup;
 			children = (
+				CB1327081EC374DE0056FB24 /* nen.jpg */,
 				CB49CA361EC1A4F300F76F90 /* AppDelegate.swift */,
 				CB49CA381EC1A4F300F76F90 /* ViewController.swift */,
 				CB49CA3A1EC1A4F300F76F90 /* Main.storyboard */,
@@ -127,6 +130,7 @@
 				CB49CA411EC1A4F300F76F90 /* LaunchScreen.storyboard in Resources */,
 				CB49CA3E1EC1A4F300F76F90 /* Assets.xcassets in Resources */,
 				CB49CA3C1EC1A4F300F76F90 /* Main.storyboard in Resources */,
+				CB1327091EC374DE0056FB24 /* nen.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -304,6 +308,7 @@
 				CB49CA471EC1A4F300F76F90 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
